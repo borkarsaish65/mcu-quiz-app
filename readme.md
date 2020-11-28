@@ -1,4 +1,4 @@
-# Do You Know Me Quiz
+# Marvel Cinematic Universe Quiz
 
 __Quiz Created for participating to neogcamp__
 
